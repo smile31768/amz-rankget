@@ -1,3 +1,4 @@
+#鸣谢https://www.jianshu.com/p/ffdfb6c7cbea提供的源代码
 import os
 import requests
 import winreg
